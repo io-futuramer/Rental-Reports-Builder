@@ -1,0 +1,18 @@
+@font-face {
+    src: url('Lobster.ttf');
+}
+
+.lobsterButton {
+    -fx-font-family: "Lobster";
+    -fx-font-size: 24px;
+}
+
+.lobsterLabel {
+    -fx-font-family: "Lobster";
+    -fx-font-size: 24px;
+}
+
+.lobsterHeaderTitle {
+    -fx-font-family: "Lobster";
+    -fx-font-size: 50px;
+}
