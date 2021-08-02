@@ -15,7 +15,7 @@
         <version.maven-shade-plugin>3.2.1</version.maven-shade-plugin>
         <version.maven-resources-plugin>3.1.0</version.maven-resources-plugin>
         <version.commons-collections4>4.2</version.commons-collections4>
-        <version.commons-compress>1.18</version.commons-compress>
+        <version.commons-compress>1.21</version.commons-compress>
         <version.javax.mail>1.4.7</version.javax.mail>
         <version.mysql-connector-java>8.0.13</version.mysql-connector-java>
         <version.poi>4.0.1</version.poi>
