@@ -17,7 +17,7 @@
         <version.commons-collections4>4.2</version.commons-collections4>
         <version.commons-compress>1.18</version.commons-compress>
         <version.javax.mail>1.4.7</version.javax.mail>
-        <version.mysql-connector-java>8.0.13</version.mysql-connector-java>
+        <version.mysql-connector-java>8.0.28</version.mysql-connector-java>
         <version.poi>4.0.1</version.poi>
         <version.xmlbeans>3.0.2</version.xmlbeans>
     </properties>
